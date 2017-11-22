@@ -63,7 +63,7 @@ class QSBK:
                 nowPage += 1
                 del self.stories[0]
                 self.getOneStory(pageStories, nowPage)
-
+#zhejibadan
 spider = QSBK()
 spider.start()
 
